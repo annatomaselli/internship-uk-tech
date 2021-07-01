@@ -2,6 +2,10 @@
 
 """I had some experience with coding in Jupyter, but I was definitely not prepared at all for this challenge! It took me HOURS to even understand what Git Hub was, so I have definitely not solved this challnge, but I tried my best and read all of the below lines, but thaat's pretty much it. It motivated me to learn more about coding, but I know I have a long way to go!""" 
 
+
+"""functions to create in Part 1 from the Coding Challenge Doc"""
+""" NUMBER_OF_VIDEOS / SHOW_ALL_VIDEOS / PLAY <video_id> / STOP / PLAY_RANDOM / PAUSE / CONTINUE / SHOW_PLAYING """
+
 python3 -m pytest test/part1_test.py
 python3 -m pytest test/part2_test.py
 python3 -m pytest test/part3_test.py
